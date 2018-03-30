@@ -12,4 +12,5 @@
     <dimen name="dp200">200dp</dimen>
     <dimen name="dp3">3dp</dimen>
     <dimen name="dp4">4dp</dimen>
+    <dimen name="dp45">45dp</dimen>
 </resources>
