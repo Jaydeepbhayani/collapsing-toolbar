@@ -13,4 +13,8 @@
     <dimen name="dp3">3dp</dimen>
     <dimen name="dp4">4dp</dimen>
     <dimen name="dp45">45dp</dimen>
+    <dimen name="dp210">210dp</dimen>
+    <dimen name="dp250">250dp</dimen>
+    <dimen name="dp230">230dp</dimen>
+    <dimen name="frame_margin">230dp</dimen>
 </resources>
